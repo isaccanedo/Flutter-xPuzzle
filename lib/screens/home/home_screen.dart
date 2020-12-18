@@ -77,17 +77,17 @@ class _HomeScreenState extends State<HomeScreen> {
             Expanded(
                 flex: 1,
                 child: Text.rich(TextSpan(
-                    text: 'feito por ',
+                    text: 'By ',
                     style: TextStyle(
                         fontSize: 12,
                         fontWeight: FontWeight.bold,
                         color: Colors.black),
                     children: [
                       TextSpan(
-                          text: 'maaamorim',
+                          text: 'Isac Canedo',
                           recognizer: TapGestureRecognizer()
                             ..onTap = () =>
-                                launch('https://github.com/maaamorim/xPuzzle'),
+                                launch('https://github.com/isaccanedo/Flutter-xPuzzle'),
                           style: TextStyle(
                               fontSize: 12,
                               fontWeight: FontWeight.bold,
