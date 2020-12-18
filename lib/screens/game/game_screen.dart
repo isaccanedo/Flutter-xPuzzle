@@ -4,6 +4,10 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'components/number_board.dart';
 import 'package:xPuzzle/constants.dart' as Constants;
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 /// Página que contém componentes referentes ao jogo
 class GameScreen extends StatefulWidget {
   final String _dificuldade;

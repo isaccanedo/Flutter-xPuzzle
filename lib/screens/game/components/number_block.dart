@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 /// Componente que representa um bloco com número
 class NumberBlock extends StatelessWidget {
   final int _numero;

@@ -3,6 +3,10 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:xPuzzle/constants.dart' as Constants;
 import 'package:xPuzzle/screens/home/components/difficulty_dropdown_button.dart';
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 class HistoryScreen extends StatefulWidget {
   @override
   _HistoryScreenState createState() => _HistoryScreenState();

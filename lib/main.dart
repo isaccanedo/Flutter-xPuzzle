@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:xPuzzle/screens/home/home_screen.dart';
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 void main() {
   runApp(XPuzzleApp());
 }

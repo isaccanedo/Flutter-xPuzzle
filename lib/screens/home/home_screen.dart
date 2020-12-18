@@ -6,6 +6,10 @@ import 'package:xPuzzle/screens/history/history_screen.dart';
 import 'package:xPuzzle/screens/home/components/difficulty_dropdown_button.dart';
 import 'package:xPuzzle/constants.dart' as Constants;
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();

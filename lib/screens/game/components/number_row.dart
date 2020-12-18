@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'number_block.dart';
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 /// Componente que representa uma linha de números
 class NumberRow extends StatelessWidget {
   final List<int> _numeros;

@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:xPuzzle/constants.dart' as Constants;
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 class DifficultyDropdownButton extends StatefulWidget {
   final Function(String) _callbackAtualizarValor;
 

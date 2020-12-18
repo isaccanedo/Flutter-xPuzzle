@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'number_row.dart';
 import 'package:xPuzzle/constants.dart' as Constants;
 
+// +--------------------------+
+// | @author Isac Canedo      |
+// +--------------------------+
+
 /// Componente que representa o tabuleiro de números
 class NumberBoard extends StatefulWidget {
   final String _dificuldade;
